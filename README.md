@@ -23,8 +23,8 @@ in an APK build. One scheme everywhere.
 
 | File | Locale | Size | Corpus |
 |---|---|---|---|
-| [`pl_PL/pgen_pl_PL.json`](pl_PL/pgen_pl_PL.json) | Polish | ~12.9 MB | Leipzig `pol_news_2023_100K` |
-| `en_GB/pgen_en_GB.json` | British English | pending | Leipzig `eng_news_2020_1M`, spelling-folded toward en-GB |
+| [`pl_PL/pgen_pl_PL.json`](pl_PL/pgen_pl_PL.json) | Polish | 12.9 MB | Leipzig `pol_news_2023_100K` |
+| [`en_GB/pgen_en_GB.json`](en_GB/pgen_en_GB.json) | British English | 27.1 MB | Leipzig `eng_news_2020_1M`, spelling-folded toward en-GB |
 
 ## Installation
 
